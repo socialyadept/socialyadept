@@ -36,8 +36,9 @@
 </details>
 
 <details> 
- <summary> 🏆 <b>My trophy stats so far</b>: </summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkumail1" alt="mkumail1" /></a></p>
+  <summary> 🏆 <b>My trophy stats so far</b>: </summary>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkumail1" alt="mkumail1" /></a></p>
+</details>
  
  <p align="left">
 <h3 align="left">Connect with me:</h3>
