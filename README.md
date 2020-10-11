@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/iamkumaail" target="blank"><img src="https://img.shields.io/twitter/follow/iamkumaail?logo=twitter&style=for-the-badge" alt="iamkumaail" /></a> </p>
 
+- 🔭 I currently represent NUST at all 3 squares, i.e as a DSC Lead, Micrsoft Learn Student Ambassador, AWS Educate Cloud Ambassador 
+
 - 🔭 I’m currently working on **my own Market products**
 
 - 🌱 I’m currently learning **Flutter**
