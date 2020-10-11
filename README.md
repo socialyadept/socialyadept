@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kumail</h1>
 <h3 align="center">I am a MERN Stack Developer</h3>
 
-<p align="left" style="float:left; display:inline-block;"> <img src="https://komarev.com/ghpvc/?username=mkumail1&label=Profile%20views&color=blueviolet&style=flat" alt="mkumail1" /> </p>
+<p align="left" style="float:left; display:block;"> <img src="https://komarev.com/ghpvc/?username=mkumail1&label=Profile%20views&color=blueviolet&style=flat" alt="mkumail1" /> </p>
 
-<p align="right" style="float:right; display:inline-block;"> <a href="https://twitter.com/iamkumaail" target="blank"><img src="https://img.shields.io/twitter/follow/iamkumaail?logo=twitter&style=for-the-badge" alt="iamkumaail" /></a> </p>
+<p align="right" style="float:right; display:block;"> <a href="https://twitter.com/iamkumaail" target="blank"><img src="https://img.shields.io/twitter/follow/iamkumaail?logo=twitter&style=for-the-badge" alt="iamkumaail" /></a> </p>
 
 - 🌐 I currently represent NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
 
