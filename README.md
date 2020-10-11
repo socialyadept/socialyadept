@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Full Stack Development, Android, ML, Cloud Native Computing**
 
-- 📫 Reach me via [email](mkumailofficial@gmail.com) 
+- 📫 Reach me via mailto:mkumailofficial@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
 
 - 📄 Know about my experiences [watch my resume](https://drive.google.com/file/d/1lEiYmRPvZdGkUJyT35wmXik6kbHslVc-/view?usp=sharing)
 
