@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkumail1&label=Profile%20views&color=blueviolet&style=flat-square" alt="mkumail1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamkumaail" target="blank"><img src="https://img.shields.io/linkedin/follow/iamkumaail?logo=linkedin&style=for-the-badge" alt="iamkumaail" /></a> </p>
-
 - 🌐 I currently represent NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
 
 - 🔭 I’m currently working on **my own Market products**
