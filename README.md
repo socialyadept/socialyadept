@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
-- 👨‍💻 All of my projects are available at [github](github.com/mkumail1)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/mkumail1)
 
-- 💬 Ask me about **React, full stack development, android, ML, Cloud Native Computing**
+- 💬 Ask me about **React, Full Stack Development, Android, ML, Cloud Native Computing**
 
 - 📫 Reach me via [email](mkumailofficial@gmail.com) 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lEiYmRPvZdGkUJyT35wmXik6kbHslVc-/view?usp=sharing](https://drive.google.com/file/d/1lEiYmRPvZdGkUJyT35wmXik6kbHslVc-/view?usp=sharing)
+- 📄 Know about my experiences [watch my resume](https://drive.google.com/file/d/1lEiYmRPvZdGkUJyT35wmXik6kbHslVc-/view?usp=sharing)
 
 - ⚡ Fun fact **I love to speak publically**
 
