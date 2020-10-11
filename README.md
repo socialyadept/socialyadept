@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my own Market products**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Lately, I'm learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
