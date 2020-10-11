@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkumail1&label=Profile%20views&color=blueviolet&style=flat-square" alt="mkumail1" /> </p>
 
 - 🌐 I currently represent NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
-
 - 🔭 I’m currently working on **my own Market products**
-
 - 🌱 Lately, I'm learning **Flutter**
-
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/mkumail1)
