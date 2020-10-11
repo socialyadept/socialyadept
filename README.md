@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, full stack development, android, ML, Cloud Native Computing**
 
-- 📫 Reach me via [email](**mkumailofficial@gmail.com**) 
+- 📫 Reach me via [email](mkumailofficial@gmail.com) 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lEiYmRPvZdGkUJyT35wmXik6kbHslVc-/view?usp=sharing](https://drive.google.com/file/d/1lEiYmRPvZdGkUJyT35wmXik6kbHslVc-/view?usp=sharing)
 
