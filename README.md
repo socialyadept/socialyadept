@@ -43,8 +43,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mkumail1&hide=css,java,html&theme=tokyonight">
 </p>
 </details>
-<details open> 
 
+<details> 
+ <summary> 🏆 <b>My trophy stats so far</b>: </summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkumail1" alt="mkumail1" /></a></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkumail1&show_icons=true" alt="mkumail1" /></p>
