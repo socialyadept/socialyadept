@@ -17,7 +17,7 @@
 
 - 📫 Reach me via [Email](mailto:mkumailofficial@gmail.com)
 
-- 📄 Know about my experiences [watch my resume](https://muhammadkumail.com/Kumail_Resume.pdf)
+- 📄 Know about my experiences [watch my resume](https://muhammadkumail.com/resume)
 
 - ⚡ Fun fact **I love to speak publically**
 
