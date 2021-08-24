@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my own Market products**
 
-- 🌱 Lately, I'm learning **Flutter**
+- 🌱 Lately, I'm learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
