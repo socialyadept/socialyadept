@@ -35,8 +35,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mkumail1&hide=css,java,html&theme=tokyonight">
 </p>
  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mkumail1&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mkumail1&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=mkumail1&show_icons=true&theme=tokyonight" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mkumail1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = 400>
 </p>
 </details>
 
