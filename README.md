@@ -17,7 +17,7 @@
 
 - 📫 Reach me via [Email](mailto:mkumailofficial@gmail.com)
 
-- 📄 Know about my experiences [watch my resume](https://muhammadkumail.com/resume)
+- 📄 Know about my recent experiences [watch my resume](https://muhammadkumail.com/resume)
 
 - ⚡ Fun fact **I love to speak publically**
 
@@ -33,6 +33,10 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mkumail1&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mkumail1&hide=css,java,html&theme=tokyonight">
+</p>
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mkumail1&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mkumail1&theme=dark&hide_border=true" width = 400>
 </p>
 </details>
 
