@@ -107,7 +107,7 @@
         <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png" width="110">
     </td>
     <td align='center'>
-        <img src="https://globalittrainers.com/wp-content/uploads/2021/06/Devops-logo1.png" width="110">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="110">
     </td>
 </tr>
 
