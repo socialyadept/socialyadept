@@ -53,7 +53,7 @@
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td>
     <td align='center'>
-        <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
@@ -104,10 +104,10 @@
         <img src="https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg">
     </td>
     <td align='center'>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png" width="100">
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png">
     </td>
     <td align='center'>
-        <img src="https://www.automation-consultants.com/wp-content/uploads/2020/02/DevOps-icon.png" width="100">
+        <img src="https://www.automation-consultants.com/wp-content/uploads/2020/02/DevOps-icon.png" width="110">
     </td>
 </tr>
 
