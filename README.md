@@ -153,12 +153,15 @@
   <summary> 🏆 <b>My trophy stats so far</b>: </summary>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkumail1" alt="mkumail1" /></a></p>
 </details>
- 
- <p align="left">
-<h3 align="left">Connect with me:</h3>
-  <a href="https://twitter.com/iamkumaail" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamkumaail" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mkumail1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mkumail1" height="30" width="40" /></a>
-  <a href="https://fb.com/iamkumaail" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamkumaail" height="30" width="40" /></a>
-  <a href="https://instagram.com/themvpguy" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="themvpguy" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCdbkGxMPdxVERO0FaYGo4qg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="therealmvp" height="30" width="40" /></a>
-</p>
+
+<br />
+<br />
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.muhammadkumail.com"><img src="https://img.shields.io/badge/-muhammadkumail.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mkumail1"><img src="https://img.shields.io/badge/-Muhammad%20Kumail-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mkumailofficial@gmail.com"><img src="https://img.shields.io/badge/-mkumailofficial@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/themvpguy"><img src="https://img.shields.io/badge/-@themvpguy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/iamkumaail"><img src="https://img.shields.io/badge/-@iamkumaail-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
