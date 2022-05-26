@@ -95,10 +95,10 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/ethereum-4924303-4102054.png">
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/ethereum-4924303-4102054.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/polygon-4924309-4102060.png" >
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/polygon-4924309-4102060.png" width="60">
     </td>
     <td align='center'>
         <img src="https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg">
