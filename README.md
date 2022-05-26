@@ -67,7 +67,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png">
     </td>
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
@@ -90,24 +90,24 @@
         <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="azure">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jamstack_logo.svg/2560px-Jamstack_logo.svg.png">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="">
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/ethereum-4924303-4102054.png">
     </td>
     <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/polygon-4924309-4102060.png" >
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png">
+        <img src="https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png">
     </td>
     <td align='center'>
-        <img src="https://miro.medium.com/max/600/1*usQX20oLxChIAupsuRi7GQ.png">
+        <img src="https://www.automation-consultants.com/wp-content/uploads/2020/02/DevOps-icon.png">
     </td>
 </tr>
 
