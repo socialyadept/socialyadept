@@ -122,10 +122,10 @@
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://globalittrainers.com/wp-content/uploads/2021/06/Devops-logo1.png" >
+        <img src="https://globalittrainers.com/wp-content/uploads/2021/06/Devops-logo1.png" width="120">
     </td>
     <td align='center'>
-        <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
+        <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png">
     </td>
 </tr>
     
