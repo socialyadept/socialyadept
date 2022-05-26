@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkumail1&label=Profile%20views&color=red&style=flat" alt="mkumail1" /> </p>
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" />
 
 - 🌐 I currently have represented NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
 
@@ -24,6 +23,8 @@
 - ⚡ Fun fact **I love to speak publically** 
 
 - I study new technologies and articles in my free time
+
+<br />
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
