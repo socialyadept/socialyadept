@@ -104,10 +104,10 @@
         <img src="https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg">
     </td>
     <td align='center'>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png" width="80">
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png" width="100">
     </td>
     <td align='center'>
-        <img src="https://www.automation-consultants.com/wp-content/uploads/2020/02/DevOps-icon.png" width="70">
+        <img src="https://www.automation-consultants.com/wp-content/uploads/2020/02/DevOps-icon.png" width="100">
     </td>
 </tr>
 
