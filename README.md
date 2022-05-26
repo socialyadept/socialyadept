@@ -44,7 +44,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png" width="60">
+        <img src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -56,7 +56,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60">
     </td>
 </tr>
 <tr>
