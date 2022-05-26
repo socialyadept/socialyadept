@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kumail</h1>
-<h3 align="center">I am a MERN Stack Developer</h3>
+<h3 align="center">I am a Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkumail1&label=Profile%20views&color=red&style=flat" alt="mkumail1" /> </p>
 
-- 🌐 I currently represent NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" />
 
-- 🔭 I’m currently working on **my own Market products**
-
-- 🌱 Lately, I'm learning **Blockchain**
-
-- 👯 I’m looking to collaborate on **Any Open Source Project**
+- 🌐 I currently have represented NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/mkumail1)
 
@@ -19,8 +15,17 @@
 
 - 📄 Know about my recent experiences [watch my resume](https://muhammadkumail.com/resume)
 
-- ⚡ Fun fact **I love to speak publically**
+- 🔭 I’m work on **my own Market products** as a side hustle
 
+- 🌱 Lately, I'm learning **Blockchain**
+
+- 👯 I’m looking to collaborate on **Any Open Source Project**
+
+- ⚡ Fun fact **I love to speak publically** 
+
+- I study new technologies and articles in my free time
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <h2><i>💻 Tech Stack</i></h2>
 
