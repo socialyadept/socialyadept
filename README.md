@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I love to speak publically** 
 
-- I study new technologies and articles in my free time
+- I love to study new technologies and read articles in my free time
 
 <br />
 
