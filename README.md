@@ -107,7 +107,7 @@
         <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png" width="110">
     </td>
     <td align='center'>
-        <img src="https://www.automation-consultants.com/wp-content/uploads/2020/02/DevOps-icon.png" width="110">
+        <img src="https://globalittrainers.com/wp-content/uploads/2021/06/Devops-logo1.png" width="110">
     </td>
 </tr>
 
@@ -122,7 +122,7 @@
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
+        <img src="https://globalittrainers.com/wp-content/uploads/2021/06/Devops-logo1.png" >
     </td>
     <td align='center'>
         <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
