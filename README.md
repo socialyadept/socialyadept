@@ -95,19 +95,19 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/ethereum-4924303-4102054.png" height="40">
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/ethereum-4924303-4102054.png" width="80">
     </td>
     <td align='center'>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/polygon-4924309-4102060.png" width="70">
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/polygon-4924309-4102060.png" width="80">
     </td>
     <td align='center'>
         <img src="https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg">
     </td>
     <td align='center'>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png">
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png" width="80">
     </td>
     <td align='center'>
-        <img src="https://www.automation-consultants.com/wp-content/uploads/2020/02/DevOps-icon.png">
+        <img src="https://www.automation-consultants.com/wp-content/uploads/2020/02/DevOps-icon.png" width="70">
     </td>
 </tr>
 
