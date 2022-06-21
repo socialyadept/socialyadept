@@ -107,7 +107,7 @@
         <img src="https://cdn3d.iconscout.com/3d/premium/thumb/polygon-4924309-4102060.png" width="80">
     </td>
     <td align='center'>
-        <img src="https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg">
+        <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg">
     </td>
     <td align='center'>
         <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png" width="110">
