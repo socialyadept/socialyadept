@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/mkumail1)
 
-- 💬 Ask me about **React, Full Stack Development, Android, ML, Cloud Native Computing**
+- 💬 Ask me about **React, Full Stack Development, Blockchain, Javascript, Android, ML, Cloud Native Computing**
 
 - 📫 Reach me via [Email](mailto:mkumailofficial@gmail.com)
 
