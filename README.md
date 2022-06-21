@@ -14,7 +14,7 @@
 
 - 📄 Know about my recent experiences [watch my resume](https://muhammadkumail.com/resume)
 
-- 🔭 I’m work on **my own Market products** as a side hustle
+- 🔭 I’m working on **my own Market products** as a side hustle
 
 - 🌱 Lately, I'm learning **Blockchain**
 
