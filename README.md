@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kumail</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkumail1&label=Profile%20views&color=red&style=flat" alt="mkumail1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=socialyadept&label=Profile%20views&color=red&style=flat" alt="socialyadept" /> </p>
 
 
 - 🌐 I currently have represented NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/mkumail1)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/socialyadept)
 
 - 💬 Ask me about **React, Full Stack Development, Blockchain, Javascript, Android, ML, Cloud Native Computing**
 
@@ -150,14 +150,14 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mkumail1&show_icons=true&theme=tokyonight&line_height=25" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mkumail1&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=socialyadept&show_icons=true&theme=tokyonight&line_height=25" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=socialyadept&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 400>
 </p>
 </details>
 
 <details> 
   <summary> 🏆 <b>My trophy stats so far</b>: </summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkumail1" alt="mkumail1" /></a></p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=socialyadept" alt="socialyadept" /></a></p>
 </details>
 
 <br />
@@ -167,7 +167,7 @@
 
 <p align="center">
 <a href="https://www.muhammadkumail.com"><img src="https://img.shields.io/badge/-muhammadkumail.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mkumail1"><img src="https://img.shields.io/badge/-Muhammad%20Kumail-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/socialyadept"><img src="https://img.shields.io/badge/-Muhammad%20Kumail-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mkumailofficial@gmail.com"><img src="https://img.shields.io/badge/-mkumailofficial@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/themvpguy"><img src="https://img.shields.io/badge/-@themvpguy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/iamkumaail"><img src="https://img.shields.io/badge/-@iamkumaail-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
