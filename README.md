@@ -170,4 +170,4 @@
 <a href="https://linkedin.com/in/socialyadept"><img src="https://img.shields.io/badge/-Muhammad%20Kumail-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mkumailofficial@gmail.com"><img src="https://img.shields.io/badge/-mkumailofficial@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/themvpguy"><img src="https://img.shields.io/badge/-@themvpguy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/iamkumaail"><img src="https://img.shields.io/badge/-@iamkumaail-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/socialyadept"><img src="https://img.shields.io/badge/-@iamkumaail-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
