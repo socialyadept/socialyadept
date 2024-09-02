@@ -96,7 +96,7 @@
         <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jamstack_logo.svg/2560px-Jamstack_logo.svg.png">
+        <img src="https://github.com/user-attachments/assets/bdacf4ee-167f-4474-be46-3034b20d5e9d"> <!-- NestJs Logo -->
     </td>
 </tr>
 <tr>
