@@ -119,7 +119,7 @@
 
 <tr>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/0d9dd15f-aa91-4e7e-a8d4-81a8144c08e0"> <!-- AWS Logo -->
+        <img src="https://github.com/user-attachments/assets/5eb66648-ee98-41ec-b114-08e5c584df33"> <!-- AWS Logo -->
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
