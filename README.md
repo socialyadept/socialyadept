@@ -119,7 +119,7 @@
 
 <tr>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/0d9dd15f-aa91-4e7e-a8d4-81a8144c08e0"> [//]: # (AWS Logo)
+        <img src="https://github.com/user-attachments/assets/0d9dd15f-aa91-4e7e-a8d4-81a8144c08e0"> <!-- AWS Logo -->
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
@@ -131,7 +131,7 @@
         <img src="https://globalittrainers.com/wp-content/uploads/2021/06/Devops-logo1.png" width="120">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/bd1b461d-f1ff-4466-9c0d-2b9282ddc4bf"> [//]: # (GCP Logo)
+        <img src="https://github.com/user-attachments/assets/bd1b461d-f1ff-4466-9c0d-2b9282ddc4bf"> <!-- GCP Logo -->
     </td>
 </tr>
     
