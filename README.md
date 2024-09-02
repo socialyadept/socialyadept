@@ -56,13 +56,13 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/b21e0a71-372d-4dbc-aa88-747fa09da398">
+        <img src="https://github.com/user-attachments/assets/1b360730-5966-42df-aa29-3db5b0bac44a">
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60">
+        <img src="https://github.com/user-attachments/assets/25573ab3-7854-4d1a-a07f-49a8e4314448" width="60">
     </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://github.com/user-attachments/assets/1ec700b6-32a1-4306-affd-4a1fbae33211" width="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
@@ -90,7 +90,7 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center'>
-        <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
+        <img src="https://github.com/user-attachments/assets/4735c5f9-001c-4dc1-858a-0791c3fd4095">
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
@@ -119,7 +119,7 @@
 
 <tr>
     <td align='center'>
-        <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
+        <img src="https://github.com/user-attachments/assets/0d9dd15f-aa91-4e7e-a8d4-81a8144c08e0"> [//]: # (AWS Logo)
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
@@ -131,7 +131,7 @@
         <img src="https://globalittrainers.com/wp-content/uploads/2021/06/Devops-logo1.png" width="120">
     </td>
     <td align='center'>
-        <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png">
+        <img src="https://github.com/user-attachments/assets/bd1b461d-f1ff-4466-9c0d-2b9282ddc4bf"> [//]: # (GCP Logo)
     </td>
 </tr>
     
