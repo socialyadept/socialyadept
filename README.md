@@ -62,7 +62,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" width="60"> <!-- Python Logo -->
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="60"> <!-- Python Logo -->
     </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://blog.hpc.qmul.ac.uk/images/posts/headers/vscode-header.webp" width="60">  <!-- VSCode Logo -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60">  <!-- VSCode Logo -->
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
@@ -131,7 +131,7 @@
         <img src="https://globalittrainers.com/wp-content/uploads/2021/06/Devops-logo1.png" width="120">
     </td>
     <td align='center'>
-        <img src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-1.png"> <!-- GCP Logo -->
+        <img src="https://i.pinimg.com/originals/40/58/3b/40583b9485486616cc310cf5c5282b85.png"> <!-- GCP Logo -->
     </td>
 </tr>
     
