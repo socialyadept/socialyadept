@@ -56,7 +56,7 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://seekvectors.com/files/download/234b110fb32958f68f318e13c7a0610e.png"> <!-- ExpressJs Logo -->
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png"> <!-- ExpressJs Logo -->
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
