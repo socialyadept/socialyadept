@@ -56,7 +56,7 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/148e5ef4-21c6-44bf-b2a6-5281ac85f401">
+        <img src="https://github.com/user-attachments/assets/325a0286-852d-4eb2-831f-c9ae449ce907">
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
