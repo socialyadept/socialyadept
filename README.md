@@ -4,9 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=socialyadept&label=Profile%20views&color=red&style=flat" alt="socialyadept" /> </p>
 
 
-- 🌐 I currently have represented NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
+- 🌐 I am a graudate student at Purdue University
+  
+- 🌐 In the past, I have lead major tech communities i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/socialyadept)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/socialyadept)
 
 - 💬 Ask me about **React, Full Stack Development, Blockchain, Javascript, Android, ML, Cloud Native Computing**
 
@@ -14,7 +16,7 @@
 
 - 📄 Know about my recent experiences [watch my resume](https://muhammadkumail.com/resume)
 
-- 🔭 I’m working on **my own Market products** as a side hustle
+- 🔭 I’m working on **my own products** as a side hustle
 
 - 🌱 Lately, I'm learning **Blockchain**
 
