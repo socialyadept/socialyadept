@@ -56,13 +56,13 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/325a0286-852d-4eb2-831f-c9ae449ce907">
+        <img src="https://seekvectors.com/files/download/234b110fb32958f68f318e13c7a0610e.png"> <!-- ExpressJs Logo -->
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/25573ab3-7854-4d1a-a07f-49a8e4314448" width="60">
+        <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" width="60"> <!-- Python Logo -->
     </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/1ec700b6-32a1-4306-affd-4a1fbae33211" width="60">
+        <img src="https://blog.hpc.qmul.ac.uk/images/posts/headers/vscode-header.webp" width="60">  <!-- VSCode Logo -->
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
@@ -90,13 +90,13 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/4735c5f9-001c-4dc1-858a-0791c3fd4095">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"> <!-- Mongodb Logo -->
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/bdacf4ee-167f-4474-be46-3034b20d5e9d"> <!-- NestJs Logo -->
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png"> <!-- NestJs Logo -->
     </td>
 </tr>
 <tr>
@@ -113,13 +113,13 @@
         <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png" width="110">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="110">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/1*W1aGmyVwe5kKGuyTvzdUEg.png" width="110">
     </td>
 </tr>
 
 <tr>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/5eb66648-ee98-41ec-b114-08e5c584df33"> <!-- AWS Logo -->
+        <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"> <!-- AWS Logo -->
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
@@ -131,7 +131,7 @@
         <img src="https://globalittrainers.com/wp-content/uploads/2021/06/Devops-logo1.png" width="120">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/bd1b461d-f1ff-4466-9c0d-2b9282ddc4bf"> <!-- GCP Logo -->
+        <img src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-1.png"> <!-- GCP Logo -->
     </td>
 </tr>
     
